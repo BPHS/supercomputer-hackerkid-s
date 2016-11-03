@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-i am robert the retard
+Dillon owns everything 

@@ -1,1 +1,2 @@
-First attempt at a supercomputer -- Opalka
+<<<<<<< HEAD
+i am robert the retard
